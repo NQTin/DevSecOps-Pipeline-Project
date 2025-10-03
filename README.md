@@ -16,5 +16,5 @@ The pipeline uses the following tools:
 
 ## Architecture Overview
 
-![Flow Diagram](https://drive.google.com/file/d/1auhMns1aqbxw2wCQZ8GXcge0FgkvPGDc/view?usp=sharing)
+![Pipeline Diagram](Images/Utube_CICD.drawio.png)
 -----------------------------------------------------------------------------------
