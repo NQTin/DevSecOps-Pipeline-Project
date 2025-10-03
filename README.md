@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------
 
 ## Project Description
-This project implements a **CI/CD pipeline** to **build, scan, push, and deploy** a YouTube application (Node.js/React or backend service) on an **Azure virtual machine**.  
+This project implements a **CI/CD pipeline** to **build, scan, push, and deploy** a YouTube application (Node.js/React) on an **Azure virtual machine**.  
 The pipeline uses the following tools:
 
 - **Jenkins**: Manages the CI/CD pipeline to automate build, test, push Docker image, and deploy.
